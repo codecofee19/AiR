@@ -1,1 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+
+
+h1 {
+	color: #ff0000;
+}
+
+p {
+	color: #4b878bff;
+}
+
+body {
+font-family: 'Merriweather', serif;
+background-color: #EAE2B7;
+}
+
 #map { height: 180px; }
